@@ -1,0 +1,8 @@
+{
+  "name": "MDM Moda Damsko-Męska | Elegancja od 1996 roku",
+  "description": "MDM Moda Damsko-Męska — elegancka moda damska i męska. Tuchola i Czersk. 30 lat doświadczenia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
